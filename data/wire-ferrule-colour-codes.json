@@ -1,0 +1,101 @@
+{
+  "source": "https://termnex.com/blogs/bootlace-ferrule-colour-codes/",
+  "entries": [
+    {
+      "mm2": 0.5,
+      "awg_approx": "20",
+      "din_46228_4": "White",
+      "french_nf_c_63_023": "White",
+      "special_german": "Orange",
+      "notes": "Standard DIN 47002 starts at 0.5 mm2"
+    },
+    {
+      "mm2": 0.75,
+      "awg_approx": "18",
+      "din_46228_4": "Grey",
+      "french_nf_c_63_023": "Blue",
+      "special_german": "White",
+      "notes": ""
+    },
+    {
+      "mm2": 1.0,
+      "awg_approx": "18",
+      "din_46228_4": "Red",
+      "french_nf_c_63_023": "Red",
+      "special_german": "Yellow",
+      "notes": ""
+    },
+    {
+      "mm2": 1.5,
+      "awg_approx": "16",
+      "din_46228_4": "Black",
+      "french_nf_c_63_023": "Black",
+      "special_german": "Red",
+      "notes": "Do not confuse DIN Black vs Special Red"
+    },
+    {
+      "mm2": 2.5,
+      "awg_approx": "14",
+      "din_46228_4": "Blue",
+      "french_nf_c_63_023": "Grey",
+      "special_german": "Blue",
+      "notes": ""
+    },
+    {
+      "mm2": 4.0,
+      "awg_approx": "12",
+      "din_46228_4": "Grey",
+      "french_nf_c_63_023": "Orange",
+      "special_german": "Grey",
+      "notes": ""
+    },
+    {
+      "mm2": 6.0,
+      "awg_approx": "10",
+      "din_46228_4": "Yellow",
+      "french_nf_c_63_023": "Green",
+      "special_german": "Black",
+      "notes": ""
+    },
+    {
+      "mm2": 10.0,
+      "awg_approx": "8",
+      "din_46228_4": "Red",
+      "french_nf_c_63_023": "Brown",
+      "special_german": "Ivory",
+      "notes": ""
+    },
+    {
+      "mm2": 16.0,
+      "awg_approx": "6",
+      "din_46228_4": "Blue",
+      "french_nf_c_63_023": "Ivory / White",
+      "special_german": "Green",
+      "notes": "French 16 mm2 varies by OEM (Ivory or White)"
+    },
+    {
+      "mm2": 25.0,
+      "awg_approx": "4",
+      "din_46228_4": "Yellow",
+      "french_nf_c_63_023": "Black",
+      "special_german": "Brown",
+      "notes": ""
+    },
+    {
+      "mm2": 35.0,
+      "awg_approx": "2",
+      "din_46228_4": "Red",
+      "french_nf_c_63_023": "Red",
+      "special_german": "Beige",
+      "notes": ""
+    },
+    {
+      "mm2": 50.0,
+      "awg_approx": "1",
+      "din_46228_4": "Blue",
+      "french_nf_c_63_023": "Blue",
+      "special_german": "Olive",
+      "notes": "DIN 46228-4 colour standard stops at 50 mm2"
+    }
+  ]
+}

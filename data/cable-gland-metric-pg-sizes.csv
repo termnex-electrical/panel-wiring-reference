@@ -1,0 +1,19 @@
+thread_system,entry_thread,cable_od_ranges_mm
+Metric,M12x1.5,3-5.5 or 4-8
+Metric,M16x1.5,4-7 or 6-10
+Metric,M20x1.5,6-11 or 8-14
+Metric,M25x1.5,12-16 or 13-18
+Metric,M32x1.5,15-22 or 18-25
+Metric,M40x1.5,20-26 or 24-31
+Metric,M50x1.5,25-33 or 31-41
+Metric,M63x1.5,39-46 or 41-51
+PG,PG7,3-5.5 or 4-8
+PG,PG9,3-5.5 or 4-8
+PG,PG11,4-7 or 6-10
+PG,PG13.5,5-9 or 8-12.5
+PG,PG16,5-11 or 8-14
+PG,PG21,10-16 or 12-18
+PG,PG29,15-22 or 18-25
+PG,PG36,20-26 or 26-31
+PG,PG42,25-33 or 31-41
+PG,PG48,41-51

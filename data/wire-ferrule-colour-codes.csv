@@ -1,0 +1,13 @@
+mm2,awg_approx,din_46228_4,french_nf_c_63_023,special_german,notes
+0.5,20,White,White,Orange,Standard DIN 47002 starts at 0.5 mm2
+0.75,18,Grey,Blue,White,
+1.0,18,Red,Red,Yellow,
+1.5,16,Black,Black,Red,Do not confuse DIN Black vs Special Red
+2.5,14,Blue,Grey,Blue,
+4.0,12,Grey,Orange,Grey,
+6.0,10,Yellow,Green,Black,
+10.0,8,Red,Brown,Ivory,
+16.0,6,Blue,Ivory / White,Green,French 16 mm2 varies by OEM (Ivory or White)
+25.0,4,Yellow,Black,Brown,
+35.0,2,Red,Red,Beige,
+50.0,1,Blue,Blue,Olive,DIN 46228-4 colour standard stops at 50 mm2

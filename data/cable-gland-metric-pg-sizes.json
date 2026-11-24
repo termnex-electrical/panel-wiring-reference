@@ -1,0 +1,95 @@
+{
+  "source": "https://termnex.com/blogs/cable-gland-size-chart/",
+  "entries": [
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M12x1.5",
+      "cable_od_ranges_mm": "3-5.5 or 4-8"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M16x1.5",
+      "cable_od_ranges_mm": "4-7 or 6-10"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M20x1.5",
+      "cable_od_ranges_mm": "6-11 or 8-14"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M25x1.5",
+      "cable_od_ranges_mm": "12-16 or 13-18"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M32x1.5",
+      "cable_od_ranges_mm": "15-22 or 18-25"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M40x1.5",
+      "cable_od_ranges_mm": "20-26 or 24-31"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M50x1.5",
+      "cable_od_ranges_mm": "25-33 or 31-41"
+    },
+    {
+      "thread_system": "Metric",
+      "entry_thread": "M63x1.5",
+      "cable_od_ranges_mm": "39-46 or 41-51"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG7",
+      "cable_od_ranges_mm": "3-5.5 or 4-8"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG9",
+      "cable_od_ranges_mm": "3-5.5 or 4-8"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG11",
+      "cable_od_ranges_mm": "4-7 or 6-10"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG13.5",
+      "cable_od_ranges_mm": "5-9 or 8-12.5"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG16",
+      "cable_od_ranges_mm": "5-11 or 8-14"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG21",
+      "cable_od_ranges_mm": "10-16 or 12-18"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG29",
+      "cable_od_ranges_mm": "15-22 or 18-25"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG36",
+      "cable_od_ranges_mm": "20-26 or 26-31"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG42",
+      "cable_od_ranges_mm": "25-33 or 31-41"
+    },
+    {
+      "thread_system": "PG",
+      "entry_thread": "PG48",
+      "cable_od_ranges_mm": "41-51"
+    }
+  ]
+}
