@@ -43,6 +43,13 @@ This repository provides machine-readable CSV and JSON datasets covering:
 - **[UL 486F vs CE & DIN 46228 Guide](https://termnex.com/blogs/wire-ferrule-ul-vs-ce/)** — Export panel compliance rules for EU and North American builds.
 - **[Resource Center](https://termnex.com/resource-center/)** — Printable checklists, thread charts, and product catalogues (no registration required).
 
+## Cross-Reference Scope & Disclaimer
+
+1. **Non-affiliation & trademarks:** Third-party manufacturer names and OEM part numbers (such as Phoenix Contact, Weidmüller, Panduit, WAGO, TE Connectivity, Schneider Electric, American Electrical, Altech, CNC Tech, and Conta-Clip) are trademarks of their respective owners and are used solely to identify dimensional cross-references. Termnex is not affiliated with or endorsed by these manufacturers.
+2. **Dimensional fit, not drop-in equivalence:** Each entry compares conductor cross-section (`mm²`), conductor count, pin length, and barrel dimensions. Always inspect the `match_level` (`Dimensionally comparable` vs `Functional alternative`) and `differences` fields for collar colour sequence, expanded-collar geometry, or loose-vs-taped packaging differences.
+3. **UL 486F system listing boundary:** An OEM ferrule's agency listing does not transfer to any replacement part. In this dataset, `ul_486f_listed = true` indicates only that the specific Termnex `HE` part number carries cULus Listing under UL 486F (`HTE` twin and `HEN` bare series are not UL Listed) and remains valid **only** when crimped with the manufacturer's specified crimping tool and strip length.
+4. **Final engineering check:** Always verify terminal bore fit, conductor stranding class, strip length, torque, and governing panel requirements (`UL 508A`, `EN 60204-1`, etc.) before specifying or ordering.
+
 ## License
 
-Data and documentation in this repository are released under the [MIT License](LICENSE). Always verify final terminal compatibility, strip length, and project certification requirements against your governing panel standard.
+Data and documentation in this repository are released under the [MIT License](LICENSE).
